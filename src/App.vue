@@ -48,7 +48,6 @@ main > section > .container > h1{
 
 section {
 	display: flex;
-	padding: 70px 50px;
 	box-sizing: border-box;
 	margin: 30px 10px;
 	padding: 9rem 4rem 4rem 4rem;

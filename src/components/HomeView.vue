@@ -50,6 +50,7 @@ function textEffect(text){
 <style>
 #home {
 	padding: 200px 50px 50px 50px;
+    justify-content: center;
 }
 
 #home .container{

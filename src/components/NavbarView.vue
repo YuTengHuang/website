@@ -99,7 +99,7 @@ nav {
 #logo{
 	cursor: pointer; 
 	position: relative;
-	background-image: url("fly.png");
+	background-image: url("/fly.png");
 	background-size: 100%;
 	width: 32px;
 	height: 32px;
@@ -114,7 +114,6 @@ nav {
 		align-items: center;
 		height: 80px;
 		width: 100%;
-		/* border-bottom: solid 1px var(--dark); */
 	}
 
 	#menu-toggle{
@@ -227,8 +226,9 @@ nav {
 		align-items: flex-end;
 		top: 0;
 		left: -300px;
-		width: 240px;
+		width: 200px;
 		height: 100vh;
+		background: rgb(95, 95, 95);
 		border-right: solid 1px white;
 		transition: left 0.5s ease;
 	}
