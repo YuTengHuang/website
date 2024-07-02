@@ -1,6 +1,6 @@
 # website
 
-This template should help get you started developing with Vue 3 in Vite.<br>
+Click the link to view my personal website.<br>
 [Go to website](https://yutenghuang.github.io/website/)
 
 ## Recommended IDE Setup
