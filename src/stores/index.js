@@ -31,7 +31,6 @@ export const useContentStore = defineStore('content', () => {
               3: "伺服器端:使用Nginx、uWSGI提供高性能和低資源消耗的服務",
               4: "部署環境: 部署於AWS EC2上，運行Linux Ubuntu操作系統版本。"
             },
-            src: "http://54.250.153.54/"
           },
         ]
       },
